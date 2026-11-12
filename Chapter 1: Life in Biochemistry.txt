@@ -1,1 +1,38 @@
+Suffixes:
+  -ose: sugar
+  -ase: enzyme
+
+Kinase: Adds phosphate
+Phosphatase: Removes phosphate
+
+Living Matter:
+  -High degree of chemical complexity & organization
+  -Extraction, transformation, and use of energy
+  -Components with defined functions with regulated interactions 
+  -Sense and respond to stimuli
+  -Self replication and assembly, gradual evolution
+
+Cell Types:
+  -Bacterial
+  -Animal
+  -Plant
+
+Organisms are never at equilibrium with their environment 
+
+Living Systems extract energy:
+  -Constant energy input necessary for life
+  -Sunlight:
+      -Plants
+      -Cyanobacteria
+      -Green Bacteria
+  -Fuels
+    -Animals
+    -Most bacteria
+
+DNA: Linear polymer of nucleotides
+A-T bond: 2 Hydrogen bonds
+C-G bond: 3 Hydrogen bonds
+
+Replication: DNA Strand is separated, a new strand is made to complement the strands
+Mutation: Broken pair replaced with a different pair
 
