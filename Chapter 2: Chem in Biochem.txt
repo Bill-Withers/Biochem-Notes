@@ -59,6 +59,9 @@ Buffers:
     -Bicarbonate, for blood plasma
     -Histidine, efficient buffer at neutral pH
 
+Functional Groups:
+  (See functional group pictures)
+
 Stereoisomers:
   -Two molecules with the same bonds but in different positions
   -Different physical properties 
