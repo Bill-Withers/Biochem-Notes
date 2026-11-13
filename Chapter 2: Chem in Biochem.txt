@@ -67,8 +67,25 @@ Stereoisomers:
       -Cis and Trans molecules have different physical and chemical properties to each other
   -Chiral center = Carbon with 4 different groups attached
   -Enantiomer:
-    -Same molecule with chiral center, but groups on chiral center are moved
-    -See enantiomers picture
+    -Same molecule with chiral center, but groups on chiral center are moved (Mirror images of each other)
+    (See stereoisomers picture)
+    -Same physical properties (Except polarized light) and different chemical properties
+    -Same properties when reacting with an achiral reagent 
+  -Diastereomers 
+    -Molecules with at least two chiral centers but they are not all mirrored
+    -Different physical and chemical properties
+    (See stereoisomers picture)
+
+Macromolecules have unique binding pockets:
+  -Only certain molecules fit in well and can bind
+  -Binding of chiral biomolecules is stereospecific
+
+Molecular Hierarchy:
+  -Monomer -> Polymer -> Structure
+  -Nucleotides -> DNA -> Chromatin 
+  -Amino Acids -> Protein -> Cell membrane
+  -Sugars -> Cellulose -> Cell wall
+    
 
 
 
