@@ -43,6 +43,7 @@ Osmotic Pressure:
 
 pH = -log([H+])
 Kw = [H+][OH-] = 1*10^-14 M^2
+
       [H+][A-]
 Ka = ---------- 
         [HA]
