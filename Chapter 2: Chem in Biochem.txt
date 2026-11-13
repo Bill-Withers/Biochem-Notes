@@ -1,1 +1,76 @@
+Weak Interactions:
+  -Ionic:
+    -Electrostatic interactions between permanently charged species, or between the ion and a permanent dipole
+  -Dipole-Dipole:
+    -Electrostatic interactions between uncharged, but polar molecules
+  -Van der Waals:
+    -Weak interactions between all atoms, regardless of polarity
+    -Attractive (dispersion) forces depend on polarizability. Strong at "long" distances (4-7 Å)
+    -Repulsive (steric) forces depend on atom size. Stronger at short distances
+    -Universal force
+  -Hydrophobic Effect:
+    -Complex phenomenon associated with the ordering of water molecules around nonpolar substances
+    -Non polar molecules stick together in aqueous solutions 
+    -Favors ligand binding:
+      -Drugs take advantage of this for delivery
+  -Hydrogen Bonding:
+    -Attraction between Hydrogen atoms attached to electronegative atoms and other highly electronegative atoms with a lone pair
+    -Responsible for water's high melting and boiling point:
+      -H-Bonding in water is cooperative, each bond makes the next one easier to form
+    -Bond strength depends on direction: 
+      -Inline is stronger, angled is weaker
+
+Amphipathic = contains hydrophobic groups and hydrophilic groups 
+Amphipathic lipids in water form spheres:
+  -hydrophilic side on outside
+  -hydrophobic side on inside
+
+Colligative Properties: 
+  -DOES NOT depend on solute, just concentration 
+  -Boiling point, melting point, osmolarity
+Non-colligative Properties: 
+  -DOES depend on solute
+  -Viscosity, surface tension, taste, color
+
+Osmotic Pressure:
+  -Water wants to equalize concentration along semi-permeable membrane
+  -Hypertonic solution = more salt
+    -Cell in hypertonic solution = Shrivel up
+  -Hypotonic solution = less salt
+    -Cell in hypertonic solution = Grow and burst
+
+
+
+pH = -log([H+])
+Kw = [H+][OH-] = 1*10^-14 M^2
+      [H+][A-]
+Ka = ---------- 
+        [HA]
+
+Buffers:
+  -Made with weak acid and conjugate base
+  -Resist pH change
+  -Buffer Range = maximum effective range 
+    -pKa ± 1
+  -Buffer Capacity = How much a buffer can resist change
+  -Enzyme catalyzed reactions have an optimal pH
+  -Buffer systems in vivo based on:
+    -Phosphate, mmol range
+    -Bicarbonate, for blood plasma
+    -Histidine, efficient buffer at neutral pH
+
+Stereoisomers:
+  -Two molecules with the same bonds but in different positions
+  -Different physical properties 
+  -Cis (Z) = Same molecules on same side of double bond (Largest molecules on same side if there are no two molecules that are the same)
+  -Trans (E) = Same molecules on opposite side of double bond (Largest molecules on opposite side if there are no two molecules that are the same)
+      -Cis and Trans molecules have different physical and chemical properties to each other
+  -Chiral center = Carbon with 4 different groups attached
+  -Enantiomer:
+    -Same molecule with chiral center, but groups on chiral center are moved
+    -See enantiomers picture
+
+
+
+
 
