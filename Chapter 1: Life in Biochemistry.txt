@@ -1,6 +1,6 @@
 Suffixes:
-  -ose: sugar
-  -ase: enzyme
+  -ose = sugar
+  -ase = enzyme
 
 Kinase: Adds phosphate
 Phosphatase: Removes phosphate
@@ -25,14 +25,49 @@ Living Systems extract energy:
       -Plants
       -Cyanobacteria
       -Green Bacteria
-  -Fuels
+  -Fuels:
     -Animals
     -Most bacteria
 
-DNA: Linear polymer of nucleotides
-A-T bond: 2 Hydrogen bonds
-C-G bond: 3 Hydrogen bonds
+DNA = Linear polymer of nucleotides
+A-T bond = 2 Hydrogen bonds
+C-G bond = 3 Hydrogen bonds
 
-Replication: DNA Strand is separated, a new strand is made to complement the strands
-Mutation: Broken pair replaced with a different pair
+Replication = DNA Strand is separated, a new strand is made to complement the strands
+Mutation = Broken pair replaced with a different pair
 
+Methods of Evolution:
+  -Endosymbiosis: Eukaryote absorbs bacteria/prokaryote and gains functions. Bacterial genes enter nucleus and divide with Eukaryote.
+  -Random Mutation/Gene duplication:
+    -Natural selection favors some mutations 
+
+Origin of Life:
+  -Hydrogen, Nitrogen, Carbon, and Oxygen make up 99% mass of most cells
+  -Mass of human body:
+    -Hydrogen(10%)
+    -Nitrogen(3%)
+    -Carbon(18%)
+    -Oxygen(65%)
+  -Miller-Urey Experiment:
+    -Synthesis of basic biomolecules from primitive atmospheric conditions with spark
+    -Possible explanation for origin of life
+
+RNA is an info carrier and biocatalyst 
+(See DNA to Protein picture)
+
+Common Cell Features:
+  -Cytoplasm = Everything in cell
+  -Cytosol = Solution of enzymes, RNA, metabolites, coenzymes, ribosomes, etc.
+  -Nucleus = genome storage and replication 
+
+Bacterial cell features:
+  (See Bacterial Cell picture)
+  -Some bacteria retain Gram Stain (Blue)
+  -Gram positive = single membrane of peptidoglycan (porous)
+  -Gram negative = Double membrane with outer membrane made of lipopolysaccharides and phospholipids on the inside
+
+Eukaryotes
+  -Membrane enclosed organelles
+  -Red blood cells have no nucleus
+  -Nucleus does selective import/export
+  -Energy production in mitochondria/chloroplast
