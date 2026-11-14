@@ -23,9 +23,102 @@ Amino Acids and their abbreviations: https://puzzel.org/en/flash-cards/play?p=-P
 Non-polar Aliphatic R-groups:
   -Stabilize proteins with hydrophobic interactions
   -Glycine:
+    -High conformational flexibility (tight turn in structures)
+    -Sidechain-less backbone (bind to phosphates)
+
+  -Alanine:
+    -Present in all non-critical contexts
+    -Non-reactive
+    -Substrate recognition or specificity (for other non-reactive atoms)
+
+  -Proline:
+    -Limited in conformations (Very tight turns)
+    -Usually found on surface
+    -Important roles in molecular recognition 
+    -Binds aromatic residues on domains WW and SH3
+
+  -Valine:
+    -Prefers to be in hydrophobic core
+    -Non-reactive
+    -Recognizes hydrophobic amino acids and lipids
+
+  -Leucine:
+    -Prefers to be in hydrophobic core
+    -Prefers α-helix to β-strands
+    -Non-reactive
+    -Recognizes hydrophobic amino acids and lipids
+
+  -Isoleucine:
+    -Prefers to be in hydrophobic core
+    -Non-reactive
+    -Recognizes hydrophobic amino acids and lipids
+
+  -Methionine:
+    -Slightly non-polar thioether group
+    -Prefers to be in hydrophobic core
+    -Almost always the first amino acid in a protein 
+    -Recognizes hydrophobic amino acids and lipids
+    -Can be involved in metal binding
+
+Polar, Uncharged R-Groups:
+  -R-groups can form Hydrogen Bonds
+  -Serine:
+    -Conformationally versatile
+    -Reactive OH group
+    -Common in functional centers (for catalysis)
+    -Catalytic triad found in many hydrolases
+    -Site of phosphorylation
+    
+  -Threonine:
+    -Conformationally versatile (Except for branching)
+    -Reactive OH group
+    -Common in functional center
+    -Site of phosphorylation/glycosylation
+
+  -Cysteine:
+    -Outside of cell, frequently in disulfide bonds
+    -Inside of cell, binds metals, like zinc
+    -Reactive sulfur group, (Nucleophile)
+    -Active sites, binding sites and metal binding
+  -Selenocysteine:
+    -
+    -
+  -Asparagine:
+    -
+    -
+  -Glutamine:
+    -
     -
 
+Aromatic R-Groups:
+  -Phenylalanine:
+    -
+    -
+  -Tyrosine:
+    -
+    -
+  -Tryptophan:
+    -
+    -
+Positively Charged R-Group:
+  -Lysine:
+    -
+    -
+  -Arginine:
+    -
+    -
+  -Histidine:
+    -
+    -
+Negatively Charged R-Group:
+  -Aspartate:
+    -
+    -
+  -Glutamate:
+    -
+    -
 
-
-
-  
+Essential Amino Acids:
+  -The Whole Foods Ladder Really Must Have Various Key Ingredients 
+  -Threonine, Tryptophan, Phenylalanine, Leucine, Arginine, Methionine, Histidine, Valine, Lysine, Isoleucine
+ 
