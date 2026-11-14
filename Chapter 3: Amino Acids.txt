@@ -1,1 +1,28 @@
-- Over 300 amino acids
+Amino Acids:
+  -Over 300 amino acids
+  -20(23) are used to build proteins
+    -Capacity to polymerize
+    -Useful acid-base properties
+    -Varied properties and functions
+  -α-carbon
+    -Always 4 substituents 
+      -All (except proline) are connected to the carbon
+    -Acidic Carboxyl group
+    -Basic Amino group
+    -Hydrogen
+    -Unique R group
+  -Zwitterion = Amino acid with protonated Amino group (NH3+) and deprotonated carboxyl group (COO-)
+  -Amino acids can act as buffers in 2 ranges 
+  -Proteins only contain L-amino acids
+    -L-molecules rotate polarized light to the left
+    -D-molecules rotate polarized light to the right
+  -All amino acids (except glycine) are chiral
+
+Amino Acids and their abbreviations: https://puzzel.org/en/flash-cards/play?p=-P2Ko56GuSOd6JqmJ7uJ 
+
+//ADD ALL AMINO ACIDS AND STRUCTURES AND FUNCTIONS
+
+
+
+
+  
