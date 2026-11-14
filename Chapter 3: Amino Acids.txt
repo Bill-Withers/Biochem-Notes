@@ -81,14 +81,18 @@ Polar, Uncharged R-Groups:
     -Reactive sulfur group, (Nucleophile)
     -Active sites, binding sites and metal binding
   -Selenocysteine:
-    -
-    -
+    -21st amino acid
+    -R-group = CH2SeH
+    -Made by modifying Serine on tRNA molecule
+    -More reactive and nucleophilic 
+    -Active sites, binding sites and metal binding
+    -Antioxidant defense and thyroid hormone regulation
   -Asparagine:
-    -
-    -
+    -Surface of protein
+    -Frequently involved in protein active or binding sites
   -Glutamine:
-    -
-    -
+    -Surface of protein
+    -Frequently involved in protein active or binding sites
 
 Aromatic R-Groups:
   -Phenylalanine:
