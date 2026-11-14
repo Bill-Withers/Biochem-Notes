@@ -34,9 +34,9 @@ Non-colligative Properties:
 
 Osmotic Pressure:
   -Water wants to equalize concentration along semi-permeable membrane
-  -Hypertonic solution = more salt
+  -Hypertonic solution = more salt:
     -Cell in hypertonic solution = Shrivel up
-  -Hypotonic solution = less salt
+  -Hypotonic solution = less salt:
     -Cell in hypertonic solution = Grow and burst
 
 
@@ -51,7 +51,7 @@ Ka = ----------
 Buffers:
   -Made with weak acid and conjugate base
   -Resist pH change
-  -Buffer Range = maximum effective range 
+  -Buffer Range = maximum effective range: 
     -pKa ± 1
   -Buffer Capacity = How much a buffer can resist change
   -Enzyme catalyzed reactions have an optimal pH
@@ -67,7 +67,7 @@ Stereoisomers:
   -Two molecules with the same bonds but in different positions
   -Different physical properties 
   -Cis (Z) = Same molecules on same side of double bond (Largest molecules on same side if there are no two molecules that are the same)
-  -Trans (E) = Same molecules on opposite side of double bond (Largest molecules on opposite side if there are no two molecules that are the same)
+  -Trans (E) = Same molecules on opposite side of double bond (Largest molecules on opposite side if there are no two molecules that are the same):
       -Cis and Trans molecules have different physical and chemical properties to each other
   -Chiral center = Carbon with 4 different groups attached
   -Enantiomer:
@@ -75,7 +75,7 @@ Stereoisomers:
     (See stereoisomers picture)
     -Same physical properties (Except polarized light) and different chemical properties
     -Same properties when reacting with an achiral reagent 
-  -Diastereomers 
+  -Diastereomers: 
     -Molecules with at least two chiral centers but they are not all mirrored
     -Different physical and chemical properties
     (See stereoisomers picture)
