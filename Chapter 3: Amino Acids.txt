@@ -95,15 +95,22 @@ Polar, Uncharged R-Groups:
     -Frequently involved in protein active or binding sites
 
 Aromatic R-Groups:
+  -Absorb Light at 280 nm
   -Phenylalanine:
-    -
-    -
+    -Prefers to be in hydrophobic core
+    -Aromatic Stacking
+    -Non-reactive 
+    -Recognizes hydrophobic amino acids and lipids
   -Tyrosine:
-    -
-    -
+    -Prefers to be in hydrophobic core
+    -Aromatic Stacking
+    -Reactive OH group
+    -Recognizes hydrophobic amino acids and lipids
   -Tryptophan:
+    -Prefers to be in hydrophobic core
+    -Aromatic Stacking
     -
-    -
+   
 Positively Charged R-Group:
   -Lysine:
     -
