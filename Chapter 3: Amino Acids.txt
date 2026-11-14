@@ -80,6 +80,7 @@ Polar, Uncharged R-Groups:
     -Inside of cell, binds metals, like zinc
     -Reactive sulfur group, (Nucleophile)
     -Active sites, binding sites and metal binding
+
   -Selenocysteine:
     -21st amino acid
     -R-group = CH2SeH
@@ -87,9 +88,11 @@ Polar, Uncharged R-Groups:
     -More reactive and nucleophilic 
     -Active sites, binding sites and metal binding
     -Antioxidant defense and thyroid hormone regulation
+
   -Asparagine:
     -Surface of protein
     -Frequently involved in protein active or binding sites
+
   -Glutamine:
     -Surface of protein
     -Frequently involved in protein active or binding sites
@@ -98,38 +101,100 @@ Aromatic R-Groups:
   -Absorb Light at 280 nm
   -Phenylalanine:
     -Prefers to be in hydrophobic core
-    -Aromatic Stacking
+    -Aromatic stacking
     -Non-reactive 
     -Recognizes hydrophobic amino acids and lipids
+
   -Tyrosine:
     -Prefers to be in hydrophobic core
-    -Aromatic Stacking
+    -Aromatic stacking
     -Reactive OH group
     -Recognizes hydrophobic amino acids and lipids
+
   -Tryptophan:
     -Prefers to be in hydrophobic core
-    -Aromatic Stacking
-    -
+    -Aromatic stacking
+    -Nitrogen in aromatic system
+    -Recognizes hydrophobic amino acids and lipids
    
 Positively Charged R-Group:
   -Lysine:
-    -
-    -
+    -Prefers to be on surface of protein 
+    -Hydrophobic side chain terminated with positive charge
+    -Often involved in salt bridges
+    -Binds nucleic acids
+    -Site of post-translational modifications
+
   -Arginine:
-    -
-    -
+    -Prefers to be on surface of protein 
+    -Hydrophobic side chain terminated with positive charge
+    -Often involved in salt bridges
+    -Binds nucleic acids
+    -Complex guanidinium group (Ideal for binding to negatively charged groups on phosphates)
+ 
   -Histidine:
-    -
-    -
+    -pKa near physiological pH 
+    -Relatively small shifts in pH change its average charge
+    -Most common amino acids in active or binding sites
+    -Common in metal binding sites
+    -Charge relay systems (such as catalytic triads in proteases)
+    
 Negatively Charged R-Group:
   -Aspartate:
-    -
-    -
+    -Prefers to be on surface of protein 
+    -When buried in protein: salt-bridges (Arg)
+    -Frequently involved in protein active or binding sites
+    -Interact with positively charged atoms
+
   -Glutamate:
-    -
-    -
+    -Prefers to be on surface of protein 
+    -When buried in protein: salt-bridges (Arg)
+    -Frequently involved in protein active or binding sites
+    -Interact with positively charged atoms
 
 Essential Amino Acids:
   -The Whole Foods Ladder Really Must Have Various Key Ingredients 
   -Threonine, Tryptophan, Phenylalanine, Leucine, Arginine, Methionine, Histidine, Valine, Lysine, Isoleucine
- 
+
+Peptides:
+  -Small condensation products of amino acids
+  -Peptide bond:
+    -Resonance hybrid of 2 canonical structures
+    -Resonance causes bonds to:
+      -Be less reactive than esters
+      -Very rigid, nearly planar
+      -Have a large dipole moment, favoring trans configuration
+    -A polypeptide is made of a series of planes linked at the α-carbon
+    -Naming starts at the amino terminal end of the chain (Same for proteins)
+
+Proteins:
+  -In order to function, must be in native structure:
+    -Defined by amino acids present in chain
+  -Uncommon amino acids (Except Selenocysteine) are not incorporated by ribosomes:
+    -Come from post-translational modifications
+    -Reversible modifications, especially phosphorylation, are important in regulation and signaling
+
+Main agents of Biological Function:
+  -Catalysis:
+    -Hexokinase (in the glycolytic pathway)
+    -DNA polymerase (in DNA replication)
+  -Transport:
+    -Hemoglobin (transports O2 in the blood)
+    -Lactose permease (transports lactose across the cell membrane)
+  -Structure:
+    -Collagen (connective tissue)
+    -Keratin (hair, nails, feathers, horns)
+  -Motion:
+    -Myosin (muscle tissue)
+    -Actin (muscle tissue, cell motility)
+
+Proteins are made of polypeptides and possible:
+  -Cofactors:
+    -Functional non-amino acid component
+    -Metal ions
+  -Coenzymes:
+    -Organic cofactors
+    -ex: NAD+ in lactate dehydrogenase
+  -Prosthetic groups:
+    -Covalently attached cofactors
+    -ex: Heme in myoglobin
