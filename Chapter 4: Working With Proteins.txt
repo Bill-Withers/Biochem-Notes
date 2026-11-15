@@ -12,4 +12,6 @@ Column Chromatography:
     -Specific ligands can bind certain proteins
   -Dialysis = Separate by osmosis
   -Electrophoresis:
-  
+    -Use electric field to separate proteins by shape and size
+    -SDS-PAGE = sodium dodecyl sulfate–polyacrylamide gel electrophoresis
+    -SDS unfolds proteins and gives them a uniform negative charge, so they move according to their size only
