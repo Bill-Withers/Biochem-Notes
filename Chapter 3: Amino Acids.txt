@@ -12,6 +12,7 @@ Amino Acids:
     -Hydrogen
     -Unique R group
   -Zwitterion = Amino acid with protonated Amino group (NH3+) and deprotonated carboxyl group (COO-)
+  -pI = isoelectric point, pH where amino acid has net 0 charge
   -Amino acids can act as buffers in 2 ranges 
   -Proteins only contain L-amino acids:
     -L-molecules rotate polarized light to the left
