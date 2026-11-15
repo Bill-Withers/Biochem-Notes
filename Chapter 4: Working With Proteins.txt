@@ -68,5 +68,9 @@ Protein Production:
       -Add X-gal 
       -If bacteria turns blue, the lacZ gene was not destroyed and the gene for the protein of interest was not taken up
   -Chemical Synthesis:
-    -
+    -FMOC = 9-Fluorenylmethoxycarbonyl
+    -N-terminals of all amino acids are protected by FMOC
+    -Done in column with insoluble polystyrene beads with a reactive group attached
+    -Step 1 = add amino acid
+    -Step 2 = add mild organic base, this removes the FMOC
     
