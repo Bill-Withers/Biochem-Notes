@@ -15,6 +15,7 @@ Column Chromatography:
     -Use electric field to separate proteins by shape and size
     -SDS-PAGE = sodium dodecyl sulfate–polyacrylamide gel electrophoresis
     -SDS unfolds proteins and gives them a uniform negative charge, so they move according to their size only
+    -Smaller proteins go farther
     -DTT = Dithiothreitol 
 
 Average protein = 110 Daltons/amino acid
@@ -23,5 +24,49 @@ Orthogonal Techniques:
   -Using different properties to separate
   -Isoelectric focusing
     -Place sample on gel with pH gradient, proteins will separate according to their pI
+    -Combine with SDS-PAGE to separate in 2 dimensions
 
 Specific activity = activity / mg
+
+Protein Sequencing:
+  -Start at N Terminus
+  -Edman's Degradation:
+    -In high pH, add phenylisothiocyanate (PITC)
+    -Lower pH, PITC will pull off first amino acid
+    -Can repeat for first 40 amino acids
+  -Sequencing:
+    -Find N-terminus with FDNB
+    -Use acid hydrolysis to determine amino acid content
+    -Cut multiple samples with different protease to get smaller polypeptides
+    -Figure out order of original protein by overlapping polypeptides
+    -(See Sequencing Picture)
+
+Sequences:
+  -Identity:
+    -25% similar = similar function
+    -18-25% similar - similar structure or function
+  -Homologs:
+    -Similarities in sequence and function
+    -Paralog = same species
+    -Ortholog = different species
+
+Protein Production:
+  -Purification from tissues
+  -Genetic Engineering (Plasmids):
+    -The Lactose Operon:
+      -LacI, Promoter, Operator, LacZ , LacY, LacA
+      -LacI = Creates repressor that binds to operator, disabling protein production
+      -Promoter = Spot where ribosome will latch on to plasmid to start protein production
+      -Operator = Stop / Go signal, if repressor is bound to Operator, no protein is produced
+      -LacZ = Codes for  β-Galactosidase, an enzyme that breaks lactose into glucose and galactose
+      -LacY = Codes for an isomerase, an enyzme that will convert galactose into glucose
+      -LacA = Codes for a permease, allows lactose to enter a cell
+    -Selection:
+      -After bacteria take up plasmid, add chosen antibiotic
+      -Bacteria that took up plasmid will survive
+    -Screening:
+      -Add X-gal 
+      -If bacteria turns blue, the lacZ gene was not destroyed and the gene for the protein of interest was not taken up
+  -Chemical Synthesis:
+    -
+    
