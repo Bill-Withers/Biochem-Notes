@@ -15,3 +15,13 @@ Column Chromatography:
     -Use electric field to separate proteins by shape and size
     -SDS-PAGE = sodium dodecyl sulfate–polyacrylamide gel electrophoresis
     -SDS unfolds proteins and gives them a uniform negative charge, so they move according to their size only
+    -DTT = Dithiothreitol 
+
+Average protein = 110 Daltons/amino acid
+
+Orthogonal Techniques:
+  -Using different properties to separate
+  -Isoelectric focusing
+    -Place sample on gel with pH gradient, proteins will separate according to their pI
+
+Specific activity = activity / mg
