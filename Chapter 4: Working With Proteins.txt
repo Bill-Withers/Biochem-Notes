@@ -1,1 +1,15 @@
+Aromatic amino acids absorb UV light, usually 280 nm (Tryptophan and Tyrosine absorb the most)
+Coomassie Brilliant Blue G-250 binds to proteins and turns from red to blue
 
+Column Chromatography:
+  -Separate by charge = Ion Exchange:
+    -Anion exchange = positively charged column
+    -Cation exchange = negatively charged column
+  -Separate by size = Gel Filtration: 
+    -Smaller particles take longer to make its way through column
+  -Separate by affinity = Affinity Chromatography:
+    -Histidine tagged proteins bind to nickel
+    -Specific ligands can bind certain proteins
+  -Dialysis = Separate by osmosis
+  -Electrophoresis:
+  
