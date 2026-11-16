@@ -1,1 +1,31 @@
+E. Coli = over 3000 proteins 
+
+Over 25,000 genes in humans (Only 2% of genome)
+Amino acid sequence defines shape, which defines function (Native fold has large number of favorable interactions within)
+20-30% of human proteins are polymorphic
+
+Favorable Interactions:
+  -Hydrophobic effect
+  -Hydrogen bonding
+  -Van der Waals forces
+  -Electrostatic interactions
+    -Electrostatic interactions + hydrogen bonding = salt bridge
+
+Phi = φ = angle of α-carbon-amide bond
+Psi = ψ = angle of α-carbon-carbonyl bond
+φ + ψ = 180 when fully extended
+
+Protein Structure Levels:
+  -1 = amino acid covalent bonds
+  -2 = repeated backbone pattern (ex: α-helix)
+  -3 = polypeptide chain
+  -4 = assembly of multiple polypeptides
+
+Sterics make certain angle combos unfavorable
+Potential hydrogen bonds make certain angle combos more favorable
+Ramachandran plots show φ + ψ distributions in a protein 
+
+Trans resonance = No rotation on a peptide bond (6 atoms in a rigid plane)
+
+
 
