@@ -73,4 +73,6 @@ Protein Production:
     -Done in column with insoluble polystyrene beads with a reactive group attached
     -Step 1 = add amino acid
     -Step 2 = add mild organic base, this removes the FMOC
-    
+    -Step 3 = add next amino acid and DCC, this make carboxylic side reactive enough to make a peptide bond with the amino acid on the resin
+    -Repeat steps 2 and 3 until full protein chain is made
+    -Step 4 = Add TFA to release protein from resin and FMOC
