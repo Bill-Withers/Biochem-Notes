@@ -26,6 +26,38 @@ Potential hydrogen bonds make certain angle combos more favorable
 Ramachandran plots show φ + ψ distributions in a protein 
 
 Trans resonance = No rotation on a peptide bond (6 atoms in a rigid plane)
+Rotation on α-carbon
+
+Secondary Structures:
+  -Local spatial arrangement of polypeptide backbone
+  -α-helix:
+    -Stabilized by hydrogen bonds between nearby residues
+  -β-sheet:
+    -Hydrogen bonds between adjacent β-strands, may be not nearby
+  -β-turn:
+    -Protein turns 180 degrees in 4 amino acids
+  -Irregular Arrangement:
+    -Random coil or loops
+
+α-helix:
+  -N-H from backbone hydrogen bonds with C=O from four residues earlier (n to n+4)
+  -3.6 residues per turn (5.4Å rise per turn = 1.5Å rise per amino acid)
+  -Hydrogen bonds are roughly parallel with the helical axis
+  -Side chains point out, roughly perpendicular to axis
+  -R-chain interactions between n to n+3 and n to n+4
+  -Small Hydrophobic amino acids like Leucine and Alanine are helix promoters
+  -Proline is a helix breaker, rotation with α-carbon is impossible
+  -Glycine is a helix breaker, too flexible
+  -large dipole moment over entire structure
+    -negative residues near positive dipole (Amino terminus)
+
+β-sheet:
+  -β-strands are zig-zag shaped (pleated)
+  -Hydrogen bonds between N-H and C=O of backbones in different strands 
+  -Side chains alternate up and down
+  -Antiparallel = Hydrogen bonds straight across, 7Å between peaks
+  
+
 
 
 
