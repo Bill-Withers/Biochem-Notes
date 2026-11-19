@@ -56,7 +56,7 @@ Protein Production:
     -The Lactose Operon:
       -LacI, Promoter, Operator, LacZ , LacY, LacA
       -LacI = Creates repressor that binds to operator, disabling protein production
-      -Promoter = Spot where ribosome will latch on to plasmid to start protein production
+      -Promoter = Spot where RNA Polymerase will latch on to plasmid to start protein production
       -Operator = Stop / Go signal, if repressor is bound to Operator, no protein is produced
       -LacZ = Codes for  β-Galactosidase, an enzyme that breaks lactose into glucose and galactose
       -LacY = Codes for an isomerase, an enyzme that will convert galactose into glucose
