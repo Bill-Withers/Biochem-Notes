@@ -30,16 +30,16 @@ Rotation on α-carbon
 
 Secondary Structures:
   -Local spatial arrangement of polypeptide backbone
-  -α-helix:
+  -α-Helix:
     -Stabilized by hydrogen bonds between nearby residues
-  -β-sheet:
+  -β-Sheet:
     -Hydrogen bonds between adjacent β-strands, may be not nearby
-  -β-turn:
+  -β-Turn:
     -Protein turns 180 degrees in 4 amino acids
   -Irregular Arrangement:
     -Random coil or loops
 
-α-helix:
+α-Helix:
   -N-H from backbone hydrogen bonds with C=O from four residues earlier (n to n+4)
   -3.6 residues per turn (5.4Å rise per turn = 1.5Å rise per amino acid)
   -Hydrogen bonds are roughly parallel with the helical axis
@@ -51,11 +51,145 @@ Secondary Structures:
   -large dipole moment over entire structure
     -negative residues near positive dipole (Amino terminus)
 
-β-sheet:
+β-Sheet:
   -β-strands are zig-zag shaped (pleated)
   -Hydrogen bonds between N-H and C=O of backbones in different strands 
   -Side chains alternate up and down
   -Antiparallel = Hydrogen bonds straight across, 7Å between peaks
+  -Parallel = Hydrogen bonds angled across, 6.5Å between peaks
+
+β-Turns:
+  -Occur when strands in β-Sheets change direction
+  -180 degrees over 4 amino acids
+  -stabilized by n to n+3
+  -Type I turn = Proline in position 2
+  -Type II Turn = Glycine in position 3
+  -Most peptide bonds, except Proline are trans
+  -6% of Proline bonds are cis, most of these are in β-Turns
+  -Proline Isomerase catalyzes Proline isomerization
+
+Determining Secondary Structure:
+  -Ramachandran Plot (in silico)
+  -Circular Dichroism (in solution)
+
+Circular Dichroism Analysis:
+  -Asymmetric molecules have different absorptions in left-handed and right-handed circularly polarized light
+  -Δε = εL - εR (Molar absorption difference)
+  -Chromophores in the chiral environment produce characteristic signals
+  -CD signals from peptide bonds depend on chain conformation]
+  -See CD Analysis Picture for more info
+
+Loops:
+  -Too big to be highly structured turns
+  -Not necessary flexible, but they can move
+  -Variable in primary sequence
+
+Tertiary Structures:
+  -Overall spatial arrangement of atoms in a protein 
+  -Stabilized by R-chain interactions: 
+    -Hydrophobic effect and polar interactions 
+    -Disulfide bonds
+    -Long range interactions
+  -Classes:
+    -Fibrous:
+      -Long strands or sheets
+      -Single type of secondary structure
+      -Insoluble, Hydrophobic
+      -Structural role
+    -Globular
+      -Polypeptide chain folded into spherical or globular shape
+      -Multiple types of secondary structures
+      -Most enzymes and regulatory proteins
+
+α-Keratin:
+  -2 right-handed α-Helixes
+    -Amphipathic (1 side polar, 1 side non-polar)
+    -Rich in hydrophobic amino acids
+    -5.2Å per turns
+  -Left-handed supercoil
+  -Disulfide bonds make Keratin harder
+
+Collagen:
+  -Long Glycine and Proline rich chain, unique secondary structure
+  -left-handed helices (NOT ALPHA, 3 amino acids/turn)
+  -3 helices make one right-handed triple super helix (3 lefts make a right)
+  -Repeating Sequence: Gly-X-Y
+    -X is often Proline
+    -Y is often 4-hydroxyproline
+  -Collegen molecules staggered and crosslinked
+    -NOT Disulfide bonds
+    -Bonds are between Lysine and 5-Hydroxylysine
+
+4-Hydroxyproline in Collagen:
+  -Forces proline into favorable pucker
+  -Offers more hydrogen bonds 
+  -Post-translational processing catalyzed by prolylhydroxylase
+    -requires α-ketoglutarate, molecular oxygen, and ascorbate (vitamin C)
+    -reaction oxidizes Fe2+ to Fe3+, vitamin C reduces it back to Fe2+
+
+Silk Fibroin:
+  -Antiparallel sheets
+  -Small R-chains (Alanine and Glycine) allow close packing of sheets with interlocking R-groups
+  -Stabilized by hydrogen bonds within sheets and LDF between sheets
+  -Sheet structure is extended, silk does not stretch
+  -Numerous weak interactions make it flexible
+
+Water-Soluble Globular Proteins:
+  -Segments of chain fold back on each other, providing structural diversity for various functions
+  -Enzyme, transport protein, motor protein, regulatory protein, immunoglobulins, etc.
+  -Hydrophobic residues on inside
+  -Most polar R-groups on the surface
+  -Very compact
+
+X-Ray Crystallography:
+  -Steps:
+    -Purify proteins
+    -Crystallize the protein
+    -Collect diffraction data
+    -Calculate electron density
+    -Fit residues into density
+  -Pros:
+    -No size limits
+    -Well-established
+  -Cons
+    -Difficult for membrane proteins
+    -Cannot see hydrogens
+
+Bimolecular NMR:
+  -Steps:
+    -Purify proteins
+    -Dissolve the protein
+    -Collect NMR data
+    -Assign NMR signals
+    -Calculate the structure
+  -Pros:
+    -No crystallization
+    -Can see hydrogens
+  -Cons
+    -Difficult for insoluble proteins 
+    -Works best with small proteins 
+
+3-Dimensional Globular Proteins:
+  -Motifs:
+    -Super-secondary structure (NOT part of hierarchy)
+    -Specific arrangement of several secondary structures:
+      -All α-Helixes
+      -All β-Sheets
+      -Both
+    -Examples
+      -β-α-β loop (See Picture)
+      -β-barrel (See Picture)
+      -Coiled coil
+      -Helix-turn-helix
+      -Globin = arrangement of 8 α-Helices
+  -Domain:
+    -Polypeptide chain independently stable from protein
+    -Independent folding in multiple domains 
+
+Intrinsically Disordered Proteins:
+  -Contains segments that lack a definable structure
+  
+
   
 
 
