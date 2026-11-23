@@ -188,6 +188,39 @@ Bimolecular NMR:
 
 Intrinsically Disordered Proteins:
   -Contains segments that lack a definable structure
+  -Allows protein to interact with many proteins 
+  -Lysine, Arginine, Glutamate, and Proline force less defined structure
+  -p53 = "The Guardian of the Genome", Tumor Suppressant 
+
+Proteostasis:
+  -Maintenance of proteins
+  -Steps:
+    -Biogenesis
+    -Folding
+    -Trafficking
+    -Degradation
+  -Folding:
+    -Function depends on shape
+    -Denaturation = Loss of functional structure
+    -Denatured by:
+      -Heat or Cold
+      -pH extremes
+      -Organic solvents 
+      -Chaotropic agents:
+        -Urea
+        -Guanidinium hydrochloride
+
+Ribonuclease Refolding:
+  -Ribonuclease A contains 8 Cysteines, making 4 disulfide bonds
+  -Urea and 2-mercaptoethanol (together) fully denature it
+  -Once they are removed, Ribonuclease A refolds on its own into its native conformation
+  -Sequence defines native conformation
+
+Chaperones:
+  -Facilitate folding
+  -Native Structure is most thermodynamically stable
+  -Hsp70 (Heat Shock Protein) chaperonins prevent misfolding due to heat
+  -See GroEL/GroES picture
   
 
   
