@@ -221,10 +221,5 @@ Chaperones:
   -Native Structure is most thermodynamically stable
   -Hsp70 (Heat Shock Protein) chaperonins prevent misfolding due to heat
   -See GroEL/GroES picture
-  
 
-  
-
-
-
-
+Protein misfolding creates many diseases, like Alzheimers
