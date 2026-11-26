@@ -1,1 +1,56 @@
+Formula = Cn(H2O)n where n is a whole number
+  -Polyhydroxyl aldehydes or ketones 
+Produced from CO2 and H2O via photosynthesis in plants
+Big range in size
 
+Functions:
+  -Energy source and storage
+  -Structural component of cell walls and exoskeletons 
+  -Informational molecule in cell-cell signaling 
+
+Can be covalently linked with proteins or lipids to form glycoconjugates
+
+Glycomics = Systematic characterization of all sugars in cells
+Aldose = contains aldehyde group
+Ketose = contains Ketone group
+
+In sugars with many chiral centers, the farthest one from the carbonyl determines if it is D (right) or L (left)
+  -Points with hydroxyl group
+  -Glucose is normally D
+
+Epimers:
+  -Sugars that differ in only one carbon atom configuration
+  -Diastereomers can differ in multiple places 
+  -See Epimers of D-Glucose picture
+
+Size Classes:
+  -Monosaccharides:
+    -Simple sugars
+    -Most abundant in nature = D-glucose
+  -Oligosaccharides:
+    -Shortt chain of monosaccharides joined by glycosidic bonds
+    -Most abundant = disaccharides like sucrose
+  -Polysaccharides:
+    -Polymers containing more than 20 monosaccharides
+    -Can be linear like cellulose
+    -Can be branched like glycogen
+
+General Names:
+  -4 carbons = tetroses
+  -5 carbons = pentoses
+  -6 carbons = hexoses
+  -7 carbons = heptoses
+
+Structures To Know:
+  -Ribose = "Standard" five carbon sugar
+  -Glucose = "Standard" six carbon sugar
+  -Galactose = Epimer of glucose 
+  -Mannose = Epimer of glucose
+  -Fructose = Ketose form of glucose 
+  -Glucose, glucopyranose
+  -Lactose, sucrose
+  -Glycogen, starch
+
+Pentoses and Hexoses readily undergo intramolecular cyclization 
+  -Last chiral OH attacks carbonyl 
+  -Carbonyl carbon (C1) also known as anomeric carbon 
